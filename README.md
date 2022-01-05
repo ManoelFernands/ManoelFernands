@@ -3,8 +3,8 @@ Olá, eu o Manoel Fernandes
 
 <div style="display: inline-block">
   <a href="https://github.com/ManoelFernands">
-  <img height="180em" width="550" src="https://github-readme-stats.vercel.app/api?username=ManoelFernands&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManoelFernands&layout=compact&langs_count=7&theme=dark"/>
+  <img height="190em" width="550" src="https://github-readme-stats.vercel.app/api?username=ManoelFernands&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="190em" width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManoelFernands&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <div style="display: inline-block"><br>
